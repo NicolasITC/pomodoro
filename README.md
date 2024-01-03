@@ -1,1 +1,1 @@
-This is a mobile Pomodoro app developed with React Native
+This is a mobile Pomodoro app developed with React Native / Expo
